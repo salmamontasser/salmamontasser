@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salma Montasser ELghamrawi</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+<h3 align="center">A passionate full stack developer  from Egypt</h3>
 
-- 🔭 I’m currently working on **Shop app**
+- 🔭 I’m currently working on **Template two with zero school**
 
-- 🌱 I’m currently learning **flutter and dart**
+- 🌱 I’m currently learning **Html & css**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
