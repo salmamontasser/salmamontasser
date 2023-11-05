@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salma Montasser ELghamrawi</h1>
 <h3 align="center">A passionate full stack developer  from Egypt</h3>
 
-- 🔭 I’m currently working on **Template two with zero school**
+- 🔭 I’m currently trianee at **Route**
 
-- 🌱 I’m currently learning **Html & css**
+- 🌱 I’m currently learning **Full-stack .net with Route**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
