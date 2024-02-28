@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salma Montasser ELghamrawi</h1>
-<h3 align="center">A passionate frontend developA passionate full stack developer from Egypter from India</h3>
+<h3 align="center">A passionate full stack developer </h3>
 
-- 🔭 I’m currently [trianee](at Route)
+- 🔭 I’m currently trianee(at Route)
 
 - 🌱 I’m currently learning **Full-Stack dot net**
 
