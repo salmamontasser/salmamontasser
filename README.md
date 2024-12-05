@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-Stack dot net**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/salma-montasser-9258b31b7/](https://www.linkedin.com/in/salma-montasser-9258b31b7/)
+- 👨‍💻 All of my projects are available at [(https://www.linkedin.com/in/salma-montasser22/]
 
 - 📫 How to reach me **salmamontasser22@gmail.com**
 
